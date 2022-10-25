@@ -1,0 +1,613 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		056E113928CF9D9A000F0429 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 056E113828CF9D9A000F0429 /* GoogleService-Info.plist */; };
+		21F17C9C28D3835200693862 /* Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F17C9B28D3835100693862 /* Utility.swift */; };
+		21F17C9E28D4358900693862 /* AppStateManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F17C9D28D4358900693862 /* AppStateManager.swift */; };
+		21F17CA128D4369D00693862 /* StudentModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F17CA028D4369D00693862 /* StudentModel.swift */; };
+		21F17CA328D4383100693862 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F17CA228D4383100693862 /* UserModel.swift */; };
+		21F17CA528D4399300693862 /* FacultyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F17CA428D4399300693862 /* FacultyModel.swift */; };
+		21F17CA728D4549600693862 /* SubjectModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F17CA628D4549600693862 /* SubjectModel.swift */; };
+		21F17CA928D454AE00693862 /* AttendanceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F17CA828D454AE00693862 /* AttendanceModel.swift */; };
+		21F17CAC28E5C50B00693862 /* StudentAddCourseVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F17CAB28E5C50B00693862 /* StudentAddCourseVC.swift */; };
+		74939EFE28CB4B7F00BD9B89 /* AttendanceChartVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74939EFD28CB4B7F00BD9B89 /* AttendanceChartVC.swift */; };
+		74939F0028CB5E7B00BD9B89 /* FacultyAddCourseVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74939EFF28CB5E7B00BD9B89 /* FacultyAddCourseVC.swift */; };
+		74AB948C28C1EAA900CB6921 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AB948B28C1EAA900CB6921 /* AppDelegate.swift */; };
+		74AB948E28C1EAA900CB6921 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AB948D28C1EAA900CB6921 /* SceneDelegate.swift */; };
+		74AB949028C1EAA900CB6921 /* SplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AB948F28C1EAA900CB6921 /* SplashViewController.swift */; };
+		74AB949328C1EAA900CB6921 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74AB949128C1EAA900CB6921 /* Main.storyboard */; };
+		74AB949528C1EAAA00CB6921 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74AB949428C1EAAA00CB6921 /* Assets.xcassets */; };
+		74AB949828C1EAAA00CB6921 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74AB949628C1EAAA00CB6921 /* LaunchScreen.storyboard */; };
+		74AB94A328C21DFA00CB6921 /* InitialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AB94A228C21DFA00CB6921 /* InitialViewController.swift */; };
+		74AB94A528C21E0200CB6921 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AB94A428C21E0200CB6921 /* HomeViewController.swift */; };
+		74AB94A728C21E0A00CB6921 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AB94A628C21E0A00CB6921 /* LoginViewController.swift */; };
+		74AB94A928C21E1300CB6921 /* StudentRegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AB94A828C21E1300CB6921 /* StudentRegisterVC.swift */; };
+		74AB94AB28C21E1D00CB6921 /* FacultyRegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AB94AA28C21E1D00CB6921 /* FacultyRegisterVC.swift */; };
+		74AB94AE28C21E3A00CB6921 /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AB94AD28C21E3A00CB6921 /* UIView.swift */; };
+		74AB94B128C225C900CB6921 /* FacultyCoursesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74AB94B028C225C900CB6921 /* FacultyCoursesVC.swift */; };
+		74BC0C0B28CF1380004D443C /* FacultyHomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74BC0C0A28CF1380004D443C /* FacultyHomeVC.swift */; };
+		74BC0C0D28CF14DA004D443C /* StudentHomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74BC0C0C28CF14DA004D443C /* StudentHomeVC.swift */; };
+		74C11A3328C75AC900B28149 /* StudentCoursesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C11A3228C75AC900B28149 /* StudentCoursesVC.swift */; };
+		74C11A3528C766F100B28149 /* GenerateQRVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C11A3428C766F100B28149 /* GenerateQRVC.swift */; };
+		74C11A3928C769CE00B28149 /* StudentCheckAttendaceVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C11A3828C769CE00B28149 /* StudentCheckAttendaceVC.swift */; };
+		74C11A3B28C76A0400B28149 /* FacultyCheckAttendanceVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C11A3A28C76A0400B28149 /* FacultyCheckAttendanceVC.swift */; };
+		74CA638928CB22EC0019A7F2 /* ScanQRViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CA638828CB22EC0019A7F2 /* ScanQRViewController.swift */; };
+		74DF330D28C228D500489909 /* FacultySectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74DF330C28C228D500489909 /* FacultySectionVC.swift */; };
+		74DF330F28C229F200489909 /* CourseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74DF330E28C229F200489909 /* CourseTableViewCell.swift */; };
+		74DF331128C23D1B00489909 /* SectionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74DF331028C23D1B00489909 /* SectionTableViewCell.swift */; };
+		AAC4561D08C3D60B22772349 /* Pods_AttendanceSystem.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B6294BE1B37BDBC253D8D718 /* Pods_AttendanceSystem.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		056E113828CF9D9A000F0429 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		066C01FDFE79CD5D5BE7F93E /* Pods-AttendanceSystem.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AttendanceSystem.release.xcconfig"; path = "Target Support Files/Pods-AttendanceSystem/Pods-AttendanceSystem.release.xcconfig"; sourceTree = "<group>"; };
+		21F17C9B28D3835100693862 /* Utility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
+		21F17C9D28D4358900693862 /* AppStateManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStateManager.swift; sourceTree = "<group>"; };
+		21F17CA028D4369D00693862 /* StudentModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentModel.swift; sourceTree = "<group>"; };
+		21F17CA228D4383100693862 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
+		21F17CA428D4399300693862 /* FacultyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacultyModel.swift; sourceTree = "<group>"; };
+		21F17CA628D4549600693862 /* SubjectModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubjectModel.swift; sourceTree = "<group>"; };
+		21F17CA828D454AE00693862 /* AttendanceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttendanceModel.swift; sourceTree = "<group>"; };
+		21F17CAB28E5C50B00693862 /* StudentAddCourseVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentAddCourseVC.swift; sourceTree = "<group>"; };
+		74939EFD28CB4B7F00BD9B89 /* AttendanceChartVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttendanceChartVC.swift; sourceTree = "<group>"; };
+		74939EFF28CB5E7B00BD9B89 /* FacultyAddCourseVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacultyAddCourseVC.swift; sourceTree = "<group>"; };
+		74AB948828C1EAA900CB6921 /* AttendanceSystem.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AttendanceSystem.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		74AB948B28C1EAA900CB6921 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		74AB948D28C1EAA900CB6921 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		74AB948F28C1EAA900CB6921 /* SplashViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashViewController.swift; sourceTree = "<group>"; };
+		74AB949228C1EAA900CB6921 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		74AB949428C1EAAA00CB6921 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		74AB949728C1EAAA00CB6921 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		74AB949928C1EAAA00CB6921 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		74AB94A228C21DFA00CB6921 /* InitialViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitialViewController.swift; sourceTree = "<group>"; };
+		74AB94A428C21E0200CB6921 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		74AB94A628C21E0A00CB6921 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		74AB94A828C21E1300CB6921 /* StudentRegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentRegisterVC.swift; sourceTree = "<group>"; };
+		74AB94AA28C21E1D00CB6921 /* FacultyRegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacultyRegisterVC.swift; sourceTree = "<group>"; };
+		74AB94AD28C21E3A00CB6921 /* UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
+		74AB94B028C225C900CB6921 /* FacultyCoursesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacultyCoursesVC.swift; sourceTree = "<group>"; };
+		74BC0C0A28CF1380004D443C /* FacultyHomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacultyHomeVC.swift; sourceTree = "<group>"; };
+		74BC0C0C28CF14DA004D443C /* StudentHomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentHomeVC.swift; sourceTree = "<group>"; };
+		74C11A3228C75AC900B28149 /* StudentCoursesVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentCoursesVC.swift; sourceTree = "<group>"; };
+		74C11A3428C766F100B28149 /* GenerateQRVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenerateQRVC.swift; sourceTree = "<group>"; };
+		74C11A3828C769CE00B28149 /* StudentCheckAttendaceVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentCheckAttendaceVC.swift; sourceTree = "<group>"; };
+		74C11A3A28C76A0400B28149 /* FacultyCheckAttendanceVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacultyCheckAttendanceVC.swift; sourceTree = "<group>"; };
+		74CA638828CB22EC0019A7F2 /* ScanQRViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScanQRViewController.swift; sourceTree = "<group>"; };
+		74DF330C28C228D500489909 /* FacultySectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacultySectionVC.swift; sourceTree = "<group>"; };
+		74DF330E28C229F200489909 /* CourseTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseTableViewCell.swift; sourceTree = "<group>"; };
+		74DF331028C23D1B00489909 /* SectionTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionTableViewCell.swift; sourceTree = "<group>"; };
+		B6294BE1B37BDBC253D8D718 /* Pods_AttendanceSystem.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AttendanceSystem.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC1FADF0EAF4766A7463B481 /* Pods-AttendanceSystem.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AttendanceSystem.debug.xcconfig"; path = "Target Support Files/Pods-AttendanceSystem/Pods-AttendanceSystem.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		74AB948528C1EAA900CB6921 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAC4561D08C3D60B22772349 /* Pods_AttendanceSystem.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		056E113728CF9D6B000F0429 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				056E113828CF9D9A000F0429 /* GoogleService-Info.plist */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		21F17C9F28D4363300693862 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				21F17CA228D4383100693862 /* UserModel.swift */,
+				21F17CA028D4369D00693862 /* StudentModel.swift */,
+				21F17CA428D4399300693862 /* FacultyModel.swift */,
+				21F17CA628D4549600693862 /* SubjectModel.swift */,
+				21F17CA828D454AE00693862 /* AttendanceModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		589B2808A26AFC6EC3EBAFC3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B6294BE1B37BDBC253D8D718 /* Pods_AttendanceSystem.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		74AB947F28C1EAA800CB6921 = {
+			isa = PBXGroup;
+			children = (
+				74AB948A28C1EAA900CB6921 /* AttendanceSystem */,
+				74AB948928C1EAA900CB6921 /* Products */,
+				F78B67CF6F80A3CF4C7185C9 /* Pods */,
+				589B2808A26AFC6EC3EBAFC3 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		74AB948928C1EAA900CB6921 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				74AB948828C1EAA900CB6921 /* AttendanceSystem.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		74AB948A28C1EAA900CB6921 /* AttendanceSystem */ = {
+			isa = PBXGroup;
+			children = (
+				21F17C9F28D4363300693862 /* Models */,
+				74AB94AC28C21E2B00CB6921 /* Extensions */,
+				74AB949F28C1EB3C00CB6921 /* Controller */,
+				74AB94A128C1EB6F00CB6921 /* Boards */,
+				74AB94A028C1EB4400CB6921 /* Extras */,
+				056E113728CF9D6B000F0429 /* Resources */,
+			);
+			path = AttendanceSystem;
+			sourceTree = "<group>";
+		};
+		74AB949F28C1EB3C00CB6921 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				74AB948F28C1EAA900CB6921 /* SplashViewController.swift */,
+				74AB94A228C21DFA00CB6921 /* InitialViewController.swift */,
+				74AB94A428C21E0200CB6921 /* HomeViewController.swift */,
+				74AB94A628C21E0A00CB6921 /* LoginViewController.swift */,
+				74AB94A828C21E1300CB6921 /* StudentRegisterVC.swift */,
+				74AB94AA28C21E1D00CB6921 /* FacultyRegisterVC.swift */,
+				74939EFD28CB4B7F00BD9B89 /* AttendanceChartVC.swift */,
+				74C11A3128C75A9C00B28149 /* Student */,
+				74AB94AF28C225A800CB6921 /* Faculty */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		74AB94A028C1EB4400CB6921 /* Extras */ = {
+			isa = PBXGroup;
+			children = (
+				74AB949928C1EAAA00CB6921 /* Info.plist */,
+				74AB949428C1EAAA00CB6921 /* Assets.xcassets */,
+				74AB948D28C1EAA900CB6921 /* SceneDelegate.swift */,
+				74AB948B28C1EAA900CB6921 /* AppDelegate.swift */,
+				21F17C9B28D3835100693862 /* Utility.swift */,
+				21F17C9D28D4358900693862 /* AppStateManager.swift */,
+			);
+			path = Extras;
+			sourceTree = "<group>";
+		};
+		74AB94A128C1EB6F00CB6921 /* Boards */ = {
+			isa = PBXGroup;
+			children = (
+				74AB949628C1EAAA00CB6921 /* LaunchScreen.storyboard */,
+				74AB949128C1EAA900CB6921 /* Main.storyboard */,
+			);
+			path = Boards;
+			sourceTree = "<group>";
+		};
+		74AB94AC28C21E2B00CB6921 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				74AB94AD28C21E3A00CB6921 /* UIView.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		74AB94AF28C225A800CB6921 /* Faculty */ = {
+			isa = PBXGroup;
+			children = (
+				74939EFF28CB5E7B00BD9B89 /* FacultyAddCourseVC.swift */,
+				74AB94B028C225C900CB6921 /* FacultyCoursesVC.swift */,
+				74DF330E28C229F200489909 /* CourseTableViewCell.swift */,
+				74DF330C28C228D500489909 /* FacultySectionVC.swift */,
+				74DF331028C23D1B00489909 /* SectionTableViewCell.swift */,
+				74BC0C0A28CF1380004D443C /* FacultyHomeVC.swift */,
+				74C11A3428C766F100B28149 /* GenerateQRVC.swift */,
+				74C11A3A28C76A0400B28149 /* FacultyCheckAttendanceVC.swift */,
+			);
+			path = Faculty;
+			sourceTree = "<group>";
+		};
+		74C11A3128C75A9C00B28149 /* Student */ = {
+			isa = PBXGroup;
+			children = (
+				21F17CAB28E5C50B00693862 /* StudentAddCourseVC.swift */,
+				74C11A3228C75AC900B28149 /* StudentCoursesVC.swift */,
+				74BC0C0C28CF14DA004D443C /* StudentHomeVC.swift */,
+				74C11A3828C769CE00B28149 /* StudentCheckAttendaceVC.swift */,
+				74CA638828CB22EC0019A7F2 /* ScanQRViewController.swift */,
+			);
+			path = Student;
+			sourceTree = "<group>";
+		};
+		F78B67CF6F80A3CF4C7185C9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				DC1FADF0EAF4766A7463B481 /* Pods-AttendanceSystem.debug.xcconfig */,
+				066C01FDFE79CD5D5BE7F93E /* Pods-AttendanceSystem.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		74AB948728C1EAA900CB6921 /* AttendanceSystem */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 74AB949C28C1EAAA00CB6921 /* Build configuration list for PBXNativeTarget "AttendanceSystem" */;
+			buildPhases = (
+				32C609D7390B780505F4E516 /* [CP] Check Pods Manifest.lock */,
+				74AB948428C1EAA900CB6921 /* Sources */,
+				74AB948528C1EAA900CB6921 /* Frameworks */,
+				74AB948628C1EAA900CB6921 /* Resources */,
+				0F7CD0A1A642A99BC0AF8DB3 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AttendanceSystem;
+			productName = AttendanceSystem;
+			productReference = 74AB948828C1EAA900CB6921 /* AttendanceSystem.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		74AB948028C1EAA800CB6921 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1340;
+				LastUpgradeCheck = 1340;
+				TargetAttributes = {
+					74AB948728C1EAA900CB6921 = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+				};
+			};
+			buildConfigurationList = 74AB948328C1EAA800CB6921 /* Build configuration list for PBXProject "AttendanceSystem" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 74AB947F28C1EAA800CB6921;
+			productRefGroup = 74AB948928C1EAA900CB6921 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				74AB948728C1EAA900CB6921 /* AttendanceSystem */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		74AB948628C1EAA900CB6921 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				74AB949828C1EAAA00CB6921 /* LaunchScreen.storyboard in Resources */,
+				056E113928CF9D9A000F0429 /* GoogleService-Info.plist in Resources */,
+				74AB949528C1EAAA00CB6921 /* Assets.xcassets in Resources */,
+				74AB949328C1EAA900CB6921 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0F7CD0A1A642A99BC0AF8DB3 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AttendanceSystem/Pods-AttendanceSystem-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AttendanceSystem/Pods-AttendanceSystem-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AttendanceSystem/Pods-AttendanceSystem-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		32C609D7390B780505F4E516 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-AttendanceSystem-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		74AB948428C1EAA900CB6921 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				21F17CA528D4399300693862 /* FacultyModel.swift in Sources */,
+				74AB94A928C21E1300CB6921 /* StudentRegisterVC.swift in Sources */,
+				74C11A3B28C76A0400B28149 /* FacultyCheckAttendanceVC.swift in Sources */,
+				74BC0C0B28CF1380004D443C /* FacultyHomeVC.swift in Sources */,
+				74DF330D28C228D500489909 /* FacultySectionVC.swift in Sources */,
+				74939EFE28CB4B7F00BD9B89 /* AttendanceChartVC.swift in Sources */,
+				74AB94A728C21E0A00CB6921 /* LoginViewController.swift in Sources */,
+				74AB94B128C225C900CB6921 /* FacultyCoursesVC.swift in Sources */,
+				74C11A3528C766F100B28149 /* GenerateQRVC.swift in Sources */,
+				74DF331128C23D1B00489909 /* SectionTableViewCell.swift in Sources */,
+				74AB94AB28C21E1D00CB6921 /* FacultyRegisterVC.swift in Sources */,
+				74AB94A528C21E0200CB6921 /* HomeViewController.swift in Sources */,
+				74AB949028C1EAA900CB6921 /* SplashViewController.swift in Sources */,
+				74AB948C28C1EAA900CB6921 /* AppDelegate.swift in Sources */,
+				21F17CA728D4549600693862 /* SubjectModel.swift in Sources */,
+				21F17C9E28D4358900693862 /* AppStateManager.swift in Sources */,
+				74BC0C0D28CF14DA004D443C /* StudentHomeVC.swift in Sources */,
+				74DF330F28C229F200489909 /* CourseTableViewCell.swift in Sources */,
+				74AB948E28C1EAA900CB6921 /* SceneDelegate.swift in Sources */,
+				21F17C9C28D3835200693862 /* Utility.swift in Sources */,
+				21F17CA328D4383100693862 /* UserModel.swift in Sources */,
+				21F17CA928D454AE00693862 /* AttendanceModel.swift in Sources */,
+				74C11A3328C75AC900B28149 /* StudentCoursesVC.swift in Sources */,
+				74CA638928CB22EC0019A7F2 /* ScanQRViewController.swift in Sources */,
+				74AB94AE28C21E3A00CB6921 /* UIView.swift in Sources */,
+				74C11A3928C769CE00B28149 /* StudentCheckAttendaceVC.swift in Sources */,
+				74939F0028CB5E7B00BD9B89 /* FacultyAddCourseVC.swift in Sources */,
+				21F17CA128D4369D00693862 /* StudentModel.swift in Sources */,
+				74AB94A328C21DFA00CB6921 /* InitialViewController.swift in Sources */,
+				21F17CAC28E5C50B00693862 /* StudentAddCourseVC.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		74AB949128C1EAA900CB6921 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				74AB949228C1EAA900CB6921 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		74AB949628C1EAAA00CB6921 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				74AB949728C1EAAA00CB6921 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		74AB949A28C1EAAA00CB6921 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		74AB949B28C1EAAA00CB6921 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		74AB949D28C1EAAA00CB6921 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DC1FADF0EAF4766A7463B481 /* Pods-AttendanceSystem.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4K545FQ59W;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = AttendanceSystem/Extras/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.attendance.system;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		74AB949E28C1EAAA00CB6921 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 066C01FDFE79CD5D5BE7F93E /* Pods-AttendanceSystem.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4K545FQ59W;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = AttendanceSystem/Extras/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.attendance.system;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		74AB948328C1EAA800CB6921 /* Build configuration list for PBXProject "AttendanceSystem" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				74AB949A28C1EAAA00CB6921 /* Debug */,
+				74AB949B28C1EAAA00CB6921 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		74AB949C28C1EAAA00CB6921 /* Build configuration list for PBXNativeTarget "AttendanceSystem" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				74AB949D28C1EAAA00CB6921 /* Debug */,
+				74AB949E28C1EAAA00CB6921 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 74AB948028C1EAA800CB6921 /* Project object */;
+}
