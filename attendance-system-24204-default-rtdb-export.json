@@ -1,0 +1,884 @@
+{
+  "admin": [
+    {
+      "email": "admin@nwmissouri.edu",
+      "password": "123123"
+    }
+  ],
+  "attendance": {
+    "-NFC3FRtO-2oOwx1hdzF": {
+      "date": "2022-10-25 02:55:30 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NFC3FRtO-2oOwx1hdzF",
+      "section": "A",
+      "semester": 0,
+      "status": 0,
+      "studentId": "-NF7bmPoj4JqOvpQpP2M",
+      "studentName": "Sarika",
+      "subjectId": "44692"
+    },
+    "-NFn6K1iEOMPB2rJnoj2": {
+      "date": "2022-11-01 12:14:29 +0000",
+      "facultyId": "-NFC29jG-PkWw4aD3NZs",
+      "id": "-NFn6K1iEOMPB2rJnoj2",
+      "section": "A",
+      "semester": 0,
+      "status": 0,
+      "studentId": "-NFn5yphNAc_6sroff6J",
+      "studentName": "Test",
+      "subjectId": "44643"
+    },
+    "-NFqZ6_tVoc1iX0UTzEh": {
+      "date": "2022-11-02 04:19:08 +0000",
+      "facultyId": "-NFC29jG-PkWw4aD3NZs",
+      "id": "-NFqZ6_tVoc1iX0UTzEh",
+      "section": "A",
+      "semester": 0,
+      "status": 0,
+      "studentId": "-NFn5yphNAc_6sroff6J",
+      "studentName": "Test",
+      "subjectId": "44643"
+    },
+    "-NFr03Z8OmXlFcP2MzU6": {
+      "date": "2022-11-02 06:25:38 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NFr03Z8OmXlFcP2MzU6",
+      "section": "A",
+      "semester": 0,
+      "status": 0,
+      "studentId": "-NF7bmPoj4JqOvpQpP2M",
+      "studentName": "Sarika",
+      "subjectId": "44692"
+    },
+    "-NFsgeY8fbGSD0rxMlfs": {
+      "date": "2022-11-02 14:15:43 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NFsgeY8fbGSD0rxMlfs",
+      "section": "A",
+      "semester": 0,
+      "status": 0,
+      "studentId": "-NF7XKCzHmcH-hz0-97Y",
+      "studentName": "Harshika",
+      "subjectId": "44692"
+    },
+    "-NFsh8FVOdpdQSlcDuGM": {
+      "date": "2022-11-02 14:17:49 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NFsh8FVOdpdQSlcDuGM",
+      "section": "A",
+      "semester": 0,
+      "status": 0,
+      "studentId": "-NFi8pDBkKhRRfS05H7B",
+      "studentName": "Sai Krishna Veeravelly",
+      "subjectId": "44692"
+    },
+    "-NFshF83tqun9FFuiIJS": {
+      "date": "2022-11-02 14:18:17 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NFshF83tqun9FFuiIJS",
+      "section": "A",
+      "semester": 0,
+      "status": 0,
+      "studentId": "-NFi9suWpn66MrK8Bw4x",
+      "studentName": "Gayatri",
+      "subjectId": "44692"
+    },
+    "-NFshGmSGPnqjAgL6MGj": {
+      "date": "2022-11-02 14:18:24 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NFshGmSGPnqjAgL6MGj",
+      "section": "A",
+      "semester": 0,
+      "status": 0,
+      "studentId": "-NFiBG3i61oRGUhAD8GT",
+      "studentName": "Sravani Komatineni",
+      "subjectId": "44692"
+    },
+    "-NFshNwsEn6LqfApzQU_": {
+      "date": "2022-11-02 14:18:53 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NFshNwsEn6LqfApzQU_",
+      "section": "A",
+      "semester": 0,
+      "status": 2,
+      "studentId": "-NFiBXq9LivvlnDokZte",
+      "studentName": "Alekhya",
+      "subjectId": "44692"
+    },
+    "-NFshRikGUTYMAHoWSNN": {
+      "date": "2022-11-02 14:19:09 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NFshRikGUTYMAHoWSNN",
+      "section": "A",
+      "semester": 0,
+      "status": 2,
+      "studentId": "-NFiBnRq2WyggehTcxsZ",
+      "studentName": "Madhumitha",
+      "subjectId": "44692"
+    },
+    "-NFshY0JPHCEleFqT0im": {
+      "date": "2022-11-02 14:19:34 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NFshY0JPHCEleFqT0im",
+      "section": "A",
+      "semester": 0,
+      "status": 2,
+      "studentId": "-NFiCLoVCpC57gR2hwxr",
+      "studentName": "Saisri",
+      "subjectId": "44692"
+    },
+    "-NFsiIGKjX_irqDzSorf": {
+      "date": "2022-11-02 14:22:52 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NFsiIGKjX_irqDzSorf",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCcCeNRZl0GNFU2Nr",
+      "studentName": "Laxman",
+      "subjectId": "44692"
+    },
+    "-NFsiJnkuvMYdP3lw8MG": {
+      "date": "2022-11-02 14:22:58 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NFsiJnkuvMYdP3lw8MG",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCnt3zhFGVLxsGoJd",
+      "studentName": "Sindhura",
+      "subjectId": "44692"
+    }
+  },
+  "faculty": {
+    "-NF7XoVI_XhkiDuzVSYp": {
+      "email": "saikrishna123@nwmissouri.edu",
+      "id": "-NF7XoVI_XhkiDuzVSYp",
+      "name": "Saikrishna",
+      "password": "dfsdfa",
+      "subjects": [
+        {
+          "id": "44613",
+          "name": "Data Visualization - 44613",
+          "section": "B",
+          "semester": 0,
+          "timeSlot": "12:50 AM"
+        },
+        {
+          "id": "44642",
+          "name": "Patterns and Frameworks - 44642",
+          "section": "B",
+          "semester": 0,
+          "timeSlot": "12:51 AM"
+        },
+        {
+          "id": "44642",
+          "name": "Patterns and Frameworks - 44642",
+          "section": "C",
+          "semester": 1,
+          "timeSlot": "10:00 AM"
+        }
+      ]
+    },
+    "-NFC1k7-KdknjY2yYUFG": {
+      "email": "afellah@nwmissouri.edu",
+      "id": "-NFC1k7-KdknjY2yYUFG",
+      "name": "Aziz Fellah",
+      "password": "Faculty",
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": "09:50 PM"
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": "09:50 PM"
+        }
+      ]
+    },
+    "-NFC29jG-PkWw4aD3NZs": {
+      "email": "abandi@nwmissouri.edu",
+      "id": "-NFC29jG-PkWw4aD3NZs",
+      "name": "Ajay Bandi",
+      "password": "Faculty",
+      "subjects": [
+        {
+          "id": "44643",
+          "name": "Mobile Computing IOS - 44643",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": "09:50 PM"
+        }
+      ]
+    }
+  },
+  "student": {
+    "-NF7XKCzHmcH-hz0-97Y": {
+      "919Number": "919610335",
+      "email": "s545035@nwmissouri.edu",
+      "id": "-NF7XKCzHmcH-hz0-97Y",
+      "name": "Harshika",
+      "password": "123123",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44618",
+          "name": "Project Management - 44618",
+          "section": "B",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NF7bmPoj4JqOvpQpP2M": {
+      "919Number": "919609675",
+      "email": "s545388@nwmissouri.edu",
+      "id": "-NF7bmPoj4JqOvpQpP2M",
+      "name": "Sarika",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NF9JxxGrqSC92S7zxXm": {
+      "919Number": "919610864",
+      "email": "s545027@nwmissouri.edu",
+      "id": "-NF9JxxGrqSC92S7zxXm",
+      "name": "Sarath",
+      "password": "123456",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "B",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFi64PF9bX1T8xi-pss": {
+      "919Number": "919609708",
+      "email": "S545040@nwmissouri.edu",
+      "id": "-NFi64PF9bX1T8xi-pss",
+      "name": "Sai Krishna Vuppala",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        null,
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFi8pDBkKhRRfS05H7B": {
+      "919Number": "919610074",
+      "email": "s544724@nwmissouri.edu",
+      "id": "-NFi8pDBkKhRRfS05H7B",
+      "name": "Sai Krishna Veeravelly",
+      "password": "Student1",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFi9suWpn66MrK8Bw4x": {
+      "919Number": "919610073",
+      "email": "s545030@nwmissouri.edu",
+      "id": "-NFi9suWpn66MrK8Bw4x",
+      "name": "Gayatri",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiBG3i61oRGUhAD8GT": {
+      "919Number": "919610075",
+      "email": "s544715@nwmissouri.edu",
+      "id": "-NFiBG3i61oRGUhAD8GT",
+      "name": "Sravani Komatineni",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiBXq9LivvlnDokZte": {
+      "919Number": "919610076",
+      "email": "s542983@nwmissouri.edu",
+      "id": "-NFiBXq9LivvlnDokZte",
+      "name": "Alekhya",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiBnRq2WyggehTcxsZ": {
+      "919Number": "919610078",
+      "email": "s545252@nwmissouri.edu",
+      "id": "-NFiBnRq2WyggehTcxsZ",
+      "name": "Madhumitha",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiCLoVCpC57gR2hwxr": {
+      "919Number": "919610079",
+      "email": "s545013@nwmissouri.edu",
+      "id": "-NFiCLoVCpC57gR2hwxr",
+      "name": "Saisri",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiCcCeNRZl0GNFU2Nr": {
+      "919Number": "919610080",
+      "email": "s545015@nwmissouri.edu",
+      "id": "-NFiCcCeNRZl0GNFU2Nr",
+      "name": "Laxman",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiCnt3zhFGVLxsGoJd": {
+      "919Number": "919610081",
+      "email": "s545427@nwmissouri.edu",
+      "id": "-NFiCnt3zhFGVLxsGoJd",
+      "name": "Sindhura",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiCy5LhMts4xnKzefx": {
+      "919Number": "919610081",
+      "email": "s545519@nwmissouri.edu",
+      "id": "-NFiCy5LhMts4xnKzefx",
+      "name": "Mahima",
+      "password": "Student",
+      "semester": 0,
+      "year": "2022"
+    },
+    "-NFiD3WerdczrqBcO6XC": {
+      "919Number": "919610082",
+      "email": "s545400@nwmissouri.edu",
+      "id": "-NFiD3WerdczrqBcO6XC",
+      "name": "Manoj",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiDHv04_YPENliXc-N": {
+      "919Number": "919610083",
+      "email": "s545146@nwmissouri.edu",
+      "id": "-NFiDHv04_YPENliXc-N",
+      "name": "Sumanth",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiDRXhKbiR2rK7eW9P": {
+      "919Number": "919610084",
+      "email": "s545721@nwmissouri.edu",
+      "id": "-NFiDRXhKbiR2rK7eW9P",
+      "name": "Rashmi",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiDfRieNnTTIq3sL2q": {
+      "919Number": "919610086",
+      "email": "s545568@nwmissouri.edu",
+      "id": "-NFiDfRieNnTTIq3sL2q",
+      "name": "Sriharsha",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiDr4f678gRSdT8lXl": {
+      "919Number": "919610087",
+      "email": "s545008@nwmissouri.edu",
+      "id": "-NFiDr4f678gRSdT8lXl",
+      "name": "Rajshekar",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiEnRyT3K-WNF1Tlfe": {
+      "919Number": "919610089",
+      "email": "s545717@nwmissouri.edu",
+      "id": "-NFiEnRyT3K-WNF1Tlfe",
+      "name": "Ravali",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiExrs4maWgTfryJwr": {
+      "919Number": "919610090",
+      "email": "s545245@nwmissouri.edu",
+      "id": "-NFiExrs4maWgTfryJwr",
+      "name": "Abhilash",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiF7C8-nxhOsOjMF0y": {
+      "919Number": "919610091",
+      "email": "s545412@nwmissouri.edu",
+      "id": "-NFiF7C8-nxhOsOjMF0y",
+      "name": "Sravan",
+      "password": "Student",
+      "semester": 0,
+      "year": "2022"
+    },
+    "-NFiFER4ZDPyS_UCOLa_": {
+      "919Number": "919610091",
+      "email": "s545610@nwmissouri.edu",
+      "id": "-NFiFER4ZDPyS_UCOLa_",
+      "name": "Navyasri",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiFOuCi10ErBuNVCoq": {
+      "919Number": "919610092",
+      "email": "s525662@nwmissouri.edu",
+      "id": "-NFiFOuCi10ErBuNVCoq",
+      "name": "Bhikash",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiFZbT56uF2sMBE6a0": {
+      "919Number": "919610093",
+      "email": "s545230@nwmissouri.edu",
+      "id": "-NFiFZbT56uF2sMBE6a0",
+      "name": "Reshwanth",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiFiuRUzZFQX2wDA_O": {
+      "919Number": "919610095",
+      "email": "s545235@nwmissouri.edu",
+      "id": "-NFiFiuRUzZFQX2wDA_O",
+      "name": "Mounisha",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFiFuEKmDx3x8RheRl7": {
+      "919Number": "919610096",
+      "email": "s544721@nwmissouri.edu",
+      "id": "-NFiFuEKmDx3x8RheRl7",
+      "name": "Arun",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NFn5yphNAc_6sroff6J": {
+      "919Number": "3554667",
+      "email": "s123@nwmissouri.edu",
+      "id": "-NFn5yphNAc_6sroff6J",
+      "name": "Test",
+      "password": "123123",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44643",
+          "name": "Mobile Computing IOS - 44643",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    }
+  },
+  "subject": {
+    "44517": {
+      "id": "44517",
+      "name": "Big Data - 44517"
+    },
+    "44542": {
+      "id": "44542",
+      "name": "Object-Oriented Programming - 44542"
+    },
+    "44560": {
+      "id": "44560",
+      "name": "Advanced Topics in Database Systems - 44560"
+    },
+    "44613": {
+      "id": "44613",
+      "name": "Data Visualization - 44613"
+    },
+    "44618": {
+      "id": "44618",
+      "name": "Project Management - 44618"
+    },
+    "44642": {
+      "id": "44642",
+      "name": "Patterns and Frameworks - 44642"
+    },
+    "44643": {
+      "id": "44643",
+      "name": "Mobile Computing IOS - 44643"
+    },
+    "44691": {
+      "id": "44691",
+      "name": "GDP I - 44691"
+    },
+    "44692": {
+      "id": "44692",
+      "name": "GDP II - 44692"
+    }
+  }
+}
