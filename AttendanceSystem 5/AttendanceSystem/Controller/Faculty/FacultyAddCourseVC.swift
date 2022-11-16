@@ -15,7 +15,7 @@ enum SeasonSource {
 
 class FacultyAddCourseVC: UIViewController {
     
-    var subjectSelectionCompletionHandler: (() -> ())?
+    var subjectSelectionCompletionHandler: (([SubjectModel]) -> ())?
 
     @IBOutlet var semesterView: UIView!
     @IBOutlet weak var semesterTF: UITextField!
@@ -29,9 +29,12 @@ class FacultyAddCourseVC: UIViewController {
     @IBOutlet var timeSlotView: UIView!
     @IBOutlet weak var timeSlotTF: UITextField!
 
-    
     @IBOutlet var addBtn: UIButton!
     
+    var subjects = [SubjectModel]()
+
+    var facultyId = ""
+
     let semesterPickerData = [String](arrayLiteral: "Fall", "Spring")
     var selctedSemester:Semester = .Fall
     
@@ -111,7 +114,7 @@ class FacultyAddCourseVC: UIViewController {
             shouldProceed = false
             message = "Please select time slot"
         }
-        else if let subjects = AppStateManager.shared.loggedInUser?.faculty?.subjects, subjects.contains(where: { ($0.id == self.selctedSubjectId && $0.section == selctedSection && $0.semester == self.selctedSemester)}) {
+        else if subjects.contains(where: { ($0.id == self.selctedSubjectId && $0.section == selctedSection && $0.semester == self.selctedSemester)}) {
             shouldProceed = false
             message = "Course already exist"
         }
@@ -127,11 +130,6 @@ class FacultyAddCourseVC: UIViewController {
     func aadCourse() {
         let course =  SubjectModel.init(id: selctedSubjectId, name: subjectTF.text!, semester: selctedSemester, timeSlot: timeSlotTF.text!, section: selctedSection)
         
-        var subjects = [SubjectModel]()
-        if let sbjcts = AppStateManager.shared.loggedInUser?.faculty?.subjects {
-           subjects = sbjcts
-        }
-        
         subjects.append(course)
         
         do {
@@ -139,13 +137,12 @@ class FacultyAddCourseVC: UIViewController {
             
             let json = try JSONSerialization.jsonObject(with: data)
             
-            ref.child("\(dbPath)/\(AppStateManager.shared.getFacultyId())/subjects")
+            ref.child("\(dbPath)/\(facultyId)/subjects")
                 .setValue(json)
             
             Utility.showAlert(title: "Alert", message: "Course added successfully", okTapped: {
-                AppStateManager.shared.loggedInUser?.faculty?.subjects = subjects
                 self.navigationController?.popViewController(animated: true)
-                self.subjectSelectionCompletionHandler?()
+                self.subjectSelectionCompletionHandler?(self.subjects)
             })
             
         } catch let error {
@@ -239,6 +236,7 @@ extension FacultyAddCourseVC: UIPickerViewDelegate, UIPickerViewDataSource  {
         if pickerView.tag == 0 {
             return semesterPickerData[row]
         }
+        
         else {
             return "Section " + sectionPickerData[row]
         }
