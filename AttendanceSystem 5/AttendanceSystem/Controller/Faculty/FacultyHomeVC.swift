@@ -11,13 +11,16 @@ class FacultyHomeVC: UIViewController {
     
     @IBOutlet var qrCodeBtn: UIButton!
     @IBOutlet var attendanceBtn: UIButton!
-    
+    @IBOutlet var resetPasswordBtn: UIButton!
+
     override func viewDidLoad() {
         super.viewDidLoad()
         
         self.navigationItem.title = "Faculty"
         qrCodeBtn.RoundCorners(radius: 8)
         attendanceBtn.RoundCorners(radius: 8)
+        resetPasswordBtn.RoundCorners(radius: 8)
+
     }
     
     
@@ -33,6 +36,12 @@ class FacultyHomeVC: UIViewController {
         
         let VC = self.storyboard?.instantiateViewController(withIdentifier: "FacultyCoursesVC") as! FacultyCoursesVC
         VC.source = .checkAttendance
+        self.navigationController!.pushViewController(VC, animated: true)
+        self.navigationItem.backBarButtonItem = UIBarButtonItem(title: "", style: .plain, target: nil, action: nil)
+    }
+    
+    @IBAction func resetPasswordBtnTapped(_ sender: Any) {
+        let VC = self.storyboard?.instantiateViewController(withIdentifier: "ResetPasswordVC") as! ResetPasswordVC
         self.navigationController!.pushViewController(VC, animated: true)
         self.navigationItem.backBarButtonItem = UIBarButtonItem(title: "", style: .plain, target: nil, action: nil)
     }
