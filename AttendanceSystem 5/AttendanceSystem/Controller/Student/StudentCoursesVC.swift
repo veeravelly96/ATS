@@ -134,5 +134,6 @@ class StudentCoursesVC: UIViewController, UITableViewDelegate, UITableViewDataSo
             selectedIndex = indexPath.row
             tableView.reloadData()
         }
+        
     }
 }
