@@ -274,6 +274,8 @@ class ScanQRViewController: UIViewController, AVCaptureMetadataOutputObjectsDele
                 } catch let error {
                     print(error.localizedDescription)
                 }
+            } else {
+                // FIXME: Zeeshan will fix this
             }
         })
         
