@@ -1,59 +1,15 @@
 {
   "admin": [
     {
-      "email": "admin@nwmissouri.edu",
+      "email": admin@nwmissouri.edu,
       "password": "123123"
     }
   ],
   "attendance": {
-    "-NFC3FRtO-2oOwx1hdzF": {
-      "date": "2022-10-25 02:55:30 +0000",
+    "-NHJdsIY_QGAm3wE18A4": {
+      "date": "2022-11-20 10:51:01 +0000",
       "facultyId": "-NFC1k7-KdknjY2yYUFG",
-      "id": "-NFC3FRtO-2oOwx1hdzF",
-      "section": "A",
-      "semester": 0,
-      "status": 0,
-      "studentId": "-NF7bmPoj4JqOvpQpP2M",
-      "studentName": "Sarika",
-      "subjectId": "44692"
-    },
-    "-NFn6K1iEOMPB2rJnoj2": {
-      "date": "2022-11-01 12:14:29 +0000",
-      "facultyId": "-NFC29jG-PkWw4aD3NZs",
-      "id": "-NFn6K1iEOMPB2rJnoj2",
-      "section": "A",
-      "semester": 0,
-      "status": 0,
-      "studentId": "-NFn5yphNAc_6sroff6J",
-      "studentName": "Test",
-      "subjectId": "44643"
-    },
-    "-NFqZ6_tVoc1iX0UTzEh": {
-      "date": "2022-11-02 04:19:08 +0000",
-      "facultyId": "-NFC29jG-PkWw4aD3NZs",
-      "id": "-NFqZ6_tVoc1iX0UTzEh",
-      "section": "A",
-      "semester": 0,
-      "status": 0,
-      "studentId": "-NFn5yphNAc_6sroff6J",
-      "studentName": "Test",
-      "subjectId": "44643"
-    },
-    "-NFr03Z8OmXlFcP2MzU6": {
-      "date": "2022-11-02 06:25:38 +0000",
-      "facultyId": "-NFC1k7-KdknjY2yYUFG",
-      "id": "-NFr03Z8OmXlFcP2MzU6",
-      "section": "A",
-      "semester": 0,
-      "status": 0,
-      "studentId": "-NF7bmPoj4JqOvpQpP2M",
-      "studentName": "Sarika",
-      "subjectId": "44692"
-    },
-    "-NFsgeY8fbGSD0rxMlfs": {
-      "date": "2022-11-02 14:15:43 +0000",
-      "facultyId": "-NFC1k7-KdknjY2yYUFG",
-      "id": "-NFsgeY8fbGSD0rxMlfs",
+      "id": "",
       "section": "A",
       "semester": 0,
       "status": 0,
@@ -61,76 +17,87 @@
       "studentName": "Harshika",
       "subjectId": "44692"
     },
-    "-NFsh8FVOdpdQSlcDuGM": {
-      "date": "2022-11-02 14:17:49 +0000",
+    "-NHJdsIc1pcDc80gklL0": {
+      "date": "2022-11-20 10:48:37 +0000",
       "facultyId": "-NFC1k7-KdknjY2yYUFG",
-      "id": "-NFsh8FVOdpdQSlcDuGM",
+      "id": "-NHJdsIc1pcDc80gklL0",
       "section": "A",
       "semester": 0,
-      "status": 0,
+      "status": 1,
+      "studentId": "-NF7bmPoj4JqOvpQpP2M",
+      "studentName": "Sarika",
+      "subjectId": "44692"
+    },
+    "-NHJdsIc1pcDc80gklL1": {
+      "date": "2022-11-20 10:48:37 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHJdsIc1pcDc80gklL1",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
       "studentId": "-NFi8pDBkKhRRfS05H7B",
       "studentName": "Sai Krishna Veeravelly",
       "subjectId": "44692"
     },
-    "-NFshF83tqun9FFuiIJS": {
-      "date": "2022-11-02 14:18:17 +0000",
+    "-NHJdsIdJg8JNgtEv__E": {
+      "date": "2022-11-20 10:48:37 +0000",
       "facultyId": "-NFC1k7-KdknjY2yYUFG",
-      "id": "-NFshF83tqun9FFuiIJS",
+      "id": "-NHJdsIdJg8JNgtEv__E",
       "section": "A",
       "semester": 0,
-      "status": 0,
+      "status": 1,
       "studentId": "-NFi9suWpn66MrK8Bw4x",
       "studentName": "Gayatri",
       "subjectId": "44692"
     },
-    "-NFshGmSGPnqjAgL6MGj": {
-      "date": "2022-11-02 14:18:24 +0000",
+    "-NHJdsIdJg8JNgtEv__F": {
+      "date": "2022-11-20 10:48:37 +0000",
       "facultyId": "-NFC1k7-KdknjY2yYUFG",
-      "id": "-NFshGmSGPnqjAgL6MGj",
+      "id": "-NHJdsIdJg8JNgtEv__F",
       "section": "A",
       "semester": 0,
-      "status": 0,
+      "status": 1,
       "studentId": "-NFiBG3i61oRGUhAD8GT",
       "studentName": "Sravani Komatineni",
       "subjectId": "44692"
     },
-    "-NFshNwsEn6LqfApzQU_": {
-      "date": "2022-11-02 14:18:53 +0000",
+    "-NHJdsIdJg8JNgtEv__G": {
+      "date": "2022-11-20 10:48:37 +0000",
       "facultyId": "-NFC1k7-KdknjY2yYUFG",
-      "id": "-NFshNwsEn6LqfApzQU_",
+      "id": "-NHJdsIdJg8JNgtEv__G",
       "section": "A",
       "semester": 0,
-      "status": 2,
+      "status": 1,
       "studentId": "-NFiBXq9LivvlnDokZte",
       "studentName": "Alekhya",
       "subjectId": "44692"
     },
-    "-NFshRikGUTYMAHoWSNN": {
-      "date": "2022-11-02 14:19:09 +0000",
+    "-NHJdsIdJg8JNgtEv__H": {
+      "date": "2022-11-20 10:48:37 +0000",
       "facultyId": "-NFC1k7-KdknjY2yYUFG",
-      "id": "-NFshRikGUTYMAHoWSNN",
+      "id": "-NHJdsIdJg8JNgtEv__H",
       "section": "A",
       "semester": 0,
-      "status": 2,
+      "status": 1,
       "studentId": "-NFiBnRq2WyggehTcxsZ",
       "studentName": "Madhumitha",
       "subjectId": "44692"
     },
-    "-NFshY0JPHCEleFqT0im": {
-      "date": "2022-11-02 14:19:34 +0000",
+    "-NHJdsIdJg8JNgtEv__I": {
+      "date": "2022-11-20 10:48:37 +0000",
       "facultyId": "-NFC1k7-KdknjY2yYUFG",
-      "id": "-NFshY0JPHCEleFqT0im",
+      "id": "-NHJdsIdJg8JNgtEv__I",
       "section": "A",
       "semester": 0,
-      "status": 2,
+      "status": 1,
       "studentId": "-NFiCLoVCpC57gR2hwxr",
       "studentName": "Saisri",
       "subjectId": "44692"
     },
-    "-NFsiIGKjX_irqDzSorf": {
-      "date": "2022-11-02 14:22:52 +0000",
+    "-NHJdsIdJg8JNgtEv__J": {
+      "date": "2022-11-20 10:48:37 +0000",
       "facultyId": "-NFC1k7-KdknjY2yYUFG",
-      "id": "-NFsiIGKjX_irqDzSorf",
+      "id": "-NHJdsIdJg8JNgtEv__J",
       "section": "A",
       "semester": 0,
       "status": 1,
@@ -138,21 +105,1429 @@
       "studentName": "Laxman",
       "subjectId": "44692"
     },
-    "-NFsiJnkuvMYdP3lw8MG": {
-      "date": "2022-11-02 14:22:58 +0000",
+    "-NHJdsIdJg8JNgtEv__K": {
+      "date": "2022-11-20 10:48:37 +0000",
       "facultyId": "-NFC1k7-KdknjY2yYUFG",
-      "id": "-NFsiJnkuvMYdP3lw8MG",
+      "id": "-NHJdsIdJg8JNgtEv__K",
       "section": "A",
       "semester": 0,
       "status": 1,
       "studentId": "-NFiCnt3zhFGVLxsGoJd",
       "studentName": "Sindhura",
       "subjectId": "44692"
+    },
+    "-NHJdsIdJg8JNgtEv__L": {
+      "date": "2022-11-20 10:48:37 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHJdsIdJg8JNgtEv__L",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiD3WerdczrqBcO6XC",
+      "studentName": "Manoj",
+      "subjectId": "44692"
+    },
+    "-NHJdsIdJg8JNgtEv__M": {
+      "date": "2022-11-20 10:48:37 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHJdsIdJg8JNgtEv__M",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDHv04_YPENliXc-N",
+      "studentName": "Sumanth",
+      "subjectId": "44692"
+    },
+    "-NHJdsIdJg8JNgtEv__N": {
+      "date": "2022-11-20 10:48:37 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHJdsIdJg8JNgtEv__N",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDRXhKbiR2rK7eW9P",
+      "studentName": "Rashmi",
+      "subjectId": "44692"
+    },
+    "-NHJdsIdJg8JNgtEv__O": {
+      "date": "2022-11-20 10:48:37 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHJdsIdJg8JNgtEv__O",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDfRieNnTTIq3sL2q",
+      "studentName": "Sriharsha",
+      "subjectId": "44692"
+    },
+    "-NHJdsIdJg8JNgtEv__P": {
+      "date": "2022-11-20 10:48:37 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHJdsIdJg8JNgtEv__P",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDr4f678gRSdT8lXl",
+      "studentName": "Rajshekar",
+      "subjectId": "44692"
+    },
+    "-NHJdsIekxHYSiHKJW3r": {
+      "date": "2022-11-20 10:48:37 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHJdsIekxHYSiHKJW3r",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiEnRyT3K-WNF1Tlfe",
+      "studentName": "Ravali",
+      "subjectId": "44692"
+    },
+    "-NHJdsIekxHYSiHKJW3s": {
+      "date": "2022-11-20 10:48:37 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHJdsIekxHYSiHKJW3s",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiExrs4maWgTfryJwr",
+      "studentName": "Abhilash",
+      "subjectId": "44692"
+    },
+    "-NHJdsIekxHYSiHKJW3t": {
+      "date": "2022-11-20 10:48:37 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHJdsIekxHYSiHKJW3t",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFER4ZDPyS_UCOLa_",
+      "studentName": "Navyasri",
+      "subjectId": "44692"
+    },
+    "-NHJdsIekxHYSiHKJW3u": {
+      "date": "2022-11-20 10:48:37 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHJdsIekxHYSiHKJW3u",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFOuCi10ErBuNVCoq",
+      "studentName": "Bhikash",
+      "subjectId": "44692"
+    },
+    "-NHJdsIekxHYSiHKJW3v": {
+      "date": "2022-11-20 10:48:37 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHJdsIekxHYSiHKJW3v",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFZbT56uF2sMBE6a0",
+      "studentName": "Reshwanth",
+      "subjectId": "44692"
+    },
+    "-NHJdsIekxHYSiHKJW3w": {
+      "date": "2022-11-20 10:48:37 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHJdsIekxHYSiHKJW3w",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFiuRUzZFQX2wDA_O",
+      "studentName": "Mounisha",
+      "subjectId": "44692"
+    },
+    "-NHJdsIekxHYSiHKJW3x": {
+      "date": "2022-11-20 10:48:37 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHJdsIekxHYSiHKJW3x",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFuEKmDx3x8RheRl7",
+      "studentName": "Arun",
+      "subjectId": "44692"
+    },
+    "-NHJdsIekxHYSiHKJW3y": {
+      "date": "2022-11-20 10:48:37 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHJdsIekxHYSiHKJW3y",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NG1zIy0XuyXNRW2tSth",
+      "studentName": "TestStudent",
+      "subjectId": "44692"
+    },
+    "-NHMHsznCOU-7H-uZ9jb": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHsznCOU-7H-uZ9jb",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NF7XKCzHmcH-hz0-97Y",
+      "studentName": "Harshika",
+      "subjectId": "44692"
+    },
+    "-NHMHszoppD3MNX5Wiln": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszoppD3MNX5Wiln",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NF7bmPoj4JqOvpQpP2M",
+      "studentName": "Sarika",
+      "subjectId": "44692"
+    },
+    "-NHMHszpdfGDX0pqeSYb": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszpdfGDX0pqeSYb",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFi8pDBkKhRRfS05H7B",
+      "studentName": "Sai Krishna Veeravelly",
+      "subjectId": "44692"
+    },
+    "-NHMHszpdfGDX0pqeSYc": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszpdfGDX0pqeSYc",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFi9suWpn66MrK8Bw4x",
+      "studentName": "Gayatri",
+      "subjectId": "44692"
+    },
+    "-NHMHszpdfGDX0pqeSYd": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszpdfGDX0pqeSYd",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiBG3i61oRGUhAD8GT",
+      "studentName": "Sravani Komatineni",
+      "subjectId": "44692"
+    },
+    "-NHMHszpdfGDX0pqeSYe": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszpdfGDX0pqeSYe",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiBXq9LivvlnDokZte",
+      "studentName": "Alekhya",
+      "subjectId": "44692"
+    },
+    "-NHMHszpdfGDX0pqeSYf": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszpdfGDX0pqeSYf",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiBnRq2WyggehTcxsZ",
+      "studentName": "Madhumitha",
+      "subjectId": "44692"
+    },
+    "-NHMHszpdfGDX0pqeSYg": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszpdfGDX0pqeSYg",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCLoVCpC57gR2hwxr",
+      "studentName": "Saisri",
+      "subjectId": "44692"
+    },
+    "-NHMHszpdfGDX0pqeSYh": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszpdfGDX0pqeSYh",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCcCeNRZl0GNFU2Nr",
+      "studentName": "Laxman",
+      "subjectId": "44692"
+    },
+    "-NHMHszqoSRX_Q3GrMrv": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszqoSRX_Q3GrMrv",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCnt3zhFGVLxsGoJd",
+      "studentName": "Sindhura",
+      "subjectId": "44692"
+    },
+    "-NHMHszqoSRX_Q3GrMrw": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszqoSRX_Q3GrMrw",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiD3WerdczrqBcO6XC",
+      "studentName": "Manoj",
+      "subjectId": "44692"
+    },
+    "-NHMHszqoSRX_Q3GrMrx": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszqoSRX_Q3GrMrx",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDHv04_YPENliXc-N",
+      "studentName": "Sumanth",
+      "subjectId": "44692"
+    },
+    "-NHMHszqoSRX_Q3GrMry": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszqoSRX_Q3GrMry",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDRXhKbiR2rK7eW9P",
+      "studentName": "Rashmi",
+      "subjectId": "44692"
+    },
+    "-NHMHszqoSRX_Q3GrMrz": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszqoSRX_Q3GrMrz",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDfRieNnTTIq3sL2q",
+      "studentName": "Sriharsha",
+      "subjectId": "44692"
+    },
+    "-NHMHszqoSRX_Q3GrMs-": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszqoSRX_Q3GrMs-",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDr4f678gRSdT8lXl",
+      "studentName": "Rajshekar",
+      "subjectId": "44692"
+    },
+    "-NHMHszqoSRX_Q3GrMs0": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszqoSRX_Q3GrMs0",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiEnRyT3K-WNF1Tlfe",
+      "studentName": "Ravali",
+      "subjectId": "44692"
+    },
+    "-NHMHszqoSRX_Q3GrMs1": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszqoSRX_Q3GrMs1",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiExrs4maWgTfryJwr",
+      "studentName": "Abhilash",
+      "subjectId": "44692"
+    },
+    "-NHMHszqoSRX_Q3GrMs2": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszqoSRX_Q3GrMs2",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFER4ZDPyS_UCOLa_",
+      "studentName": "Navyasri",
+      "subjectId": "44692"
+    },
+    "-NHMHszre7EDhkEDJnDm": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszre7EDhkEDJnDm",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFOuCi10ErBuNVCoq",
+      "studentName": "Bhikash",
+      "subjectId": "44692"
+    },
+    "-NHMHszre7EDhkEDJnDn": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszre7EDhkEDJnDn",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFZbT56uF2sMBE6a0",
+      "studentName": "Reshwanth",
+      "subjectId": "44692"
+    },
+    "-NHMHszre7EDhkEDJnDo": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszre7EDhkEDJnDo",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFiuRUzZFQX2wDA_O",
+      "studentName": "Mounisha",
+      "subjectId": "44692"
+    },
+    "-NHMHszre7EDhkEDJnDp": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszre7EDhkEDJnDp",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFuEKmDx3x8RheRl7",
+      "studentName": "Arun",
+      "subjectId": "44692"
+    },
+    "-NHMHszre7EDhkEDJnDq": {
+      "date": "2022-11-20 23:07:02 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHszre7EDhkEDJnDq",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NG1zIy0XuyXNRW2tSth",
+      "studentName": "TestStudent",
+      "subjectId": "44692"
+    },
+    "-NHMHv-JMQqsdyEAqsjm": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-JMQqsdyEAqsjm",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+     "studentId": "-NFi8pDBkKhRRfS05H7B",
+      "studentName": "Sai Krishna Veeravelly",
+      "subjectId": "44517"
+    },
+    "-NHMHv-JMQqsdyEAqsjn": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-JMQqsdyEAqsjn",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFi9suWpn66MrK8Bw4x",
+      "studentName": "Gayatri",
+      "subjectId": "44517"
+    },
+    "-NHMHv-JMQqsdyEAqsjo": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-JMQqsdyEAqsjo",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiBG3i61oRGUhAD8GT",
+      "studentName": "Sravani Komatineni",
+      "subjectId": "44517"
+    },
+    "-NHMHv-JMQqsdyEAqsjp": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-JMQqsdyEAqsjp",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiBXq9LivvlnDokZte",
+      "studentName": "Alekhya",
+      "subjectId": "44517"
+    },
+    "-NHMHv-JMQqsdyEAqsjq": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-JMQqsdyEAqsjq",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiBnRq2WyggehTcxsZ",
+      "studentName": "Madhumitha",
+      "subjectId": "44517"
+    },
+    "-NHMHv-JMQqsdyEAqsjr": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-JMQqsdyEAqsjr",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCLoVCpC57gR2hwxr",
+      "studentName": "Saisri",
+      "subjectId": "44517"
+    },
+    "-NHMHv-KowH8-mG28ywC": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-KowH8-mG28ywC",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCcCeNRZl0GNFU2Nr",
+      "studentName": "Laxman",
+      "subjectId": "44517"
+    },
+    "-NHMHv-KowH8-mG28ywD": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-KowH8-mG28ywD",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCnt3zhFGVLxsGoJd",
+      "studentName": "Sindhura",
+      "subjectId": "44517"
+    },
+    "-NHMHv-KowH8-mG28ywE": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-KowH8-mG28ywE",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiD3WerdczrqBcO6XC",
+      "studentName": "Manoj",
+      "subjectId": "44517"
+    },
+    "-NHMHv-KowH8-mG28ywF": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-KowH8-mG28ywF",
+      "section": "A",
+      "semester": 0,
+     "status": 1,
+      "studentId": "-NFiDHv04_YPENliXc-N",
+      "studentName": "Sumanth",
+      "subjectId": "44517"
+    },
+    "-NHMHv-KowH8-mG28ywG": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-KowH8-mG28ywG",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDRXhKbiR2rK7eW9P",
+      "studentName": "Rashmi",
+      "subjectId": "44517"
+    },
+    "-NHMHv-KowH8-mG28ywH": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-KowH8-mG28ywH",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDfRieNnTTIq3sL2q",
+      "studentName": "Sriharsha",
+      "subjectId": "44517"
+    },
+    "-NHMHv-KowH8-mG28ywI": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-KowH8-mG28ywI",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDr4f678gRSdT8lXl",
+      "studentName": "Rajshekar",
+      "subjectId": "44517"
+    },
+    "-NHMHv-LJeSLf9Nw1WsH": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-LJeSLf9Nw1WsH",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiEnRyT3K-WNF1Tlfe",
+      "studentName": "Ravali",
+      "subjectId": "44517"
+    },
+    "-NHMHv-LJeSLf9Nw1WsI": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-LJeSLf9Nw1WsI",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiExrs4maWgTfryJwr",
+      "studentName": "Abhilash",
+      "subjectId": "44517"
+    },
+    "-NHMHv-LJeSLf9Nw1WsJ": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-LJeSLf9Nw1WsJ",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFER4ZDPyS_UCOLa_",
+      "studentName": "Navyasri",
+      "subjectId": "44517"
+    },
+    "-NHMHv-LJeSLf9Nw1WsK": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-LJeSLf9Nw1WsK",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFOuCi10ErBuNVCoq",
+      "studentName": "Bhikash",
+      "subjectId": "44517"
+    },
+    "-NHMHv-LJeSLf9Nw1WsL": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-LJeSLf9Nw1WsL",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFZbT56uF2sMBE6a0",
+      "studentName": "Reshwanth",
+      "subjectId": "44517"
+    },
+    "-NHMHv-LJeSLf9Nw1WsM": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-LJeSLf9Nw1WsM",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFiuRUzZFQX2wDA_O",
+      "studentName": "Mounisha",
+      "subjectId": "44517"
+    },
+    "-NHMHv-MwU2Zegztu3_d": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-MwU2Zegztu3_d",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFuEKmDx3x8RheRl7",
+      "studentName": "Arun",
+      "subjectId": "44517"
+    },
+    "-NHMHv-MwU2Zegztu3_e": {
+      "date": "2022-11-20 23:07:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHMHv-MwU2Zegztu3_e",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NG1zIy0XuyXNRW2tSth",
+      "studentName": "TestStudent",
+      "subjectId": "44517"
+    },
+    "-NHpjaclDHHkcJvmst_9": {
+      "date": "2022-11-26 21:03:53 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "",
+      "section": "A",
+      "semester": 0,
+      "status": 0,
+      "studentId": "-NF7XKCzHmcH-hz0-97Y",
+      "studentName": "Harshika",
+      "subjectId": "44692"
+    },
+    "-NHpjacmlu7ub6M9jYTU": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacmlu7ub6M9jYTU",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NF7bmPoj4JqOvpQpP2M",
+      "studentName": "Sarika",
+      "subjectId": "44692"
+    },
+    "-NHpjacmlu7ub6M9jYTV": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacmlu7ub6M9jYTV",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFi8pDBkKhRRfS05H7B",
+      "studentName": "Sai Krishna Veeravelly",
+      "subjectId": "44692"
+    },
+    "-NHpjacmlu7ub6M9jYTW": {
+      "date": "2022-11-26 21:01:12 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "",
+      "section": "A",
+      "semester": 0,
+      "status": 0,
+      "studentId": "-NFi9suWpn66MrK8Bw4x",
+      "studentName": "Gayatri",
+      "subjectId": "44692"
+    },
+    "-NHpjacmlu7ub6M9jYTX": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacmlu7ub6M9jYTX",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiBG3i61oRGUhAD8GT",
+      "studentName": "Sravani Komatineni",
+      "subjectId": "44692"
+    },
+    "-NHpjacmlu7ub6M9jYTY": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacmlu7ub6M9jYTY",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiBXq9LivvlnDokZte",
+      "studentName": "Alekhya",
+      "subjectId": "44692"
+    },
+    "-NHpjacmlu7ub6M9jYTZ": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacmlu7ub6M9jYTZ",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiBnRq2WyggehTcxsZ",
+      "studentName": "Madhumitha",
+      "subjectId": "44692"
+    },
+    "-NHpjacmlu7ub6M9jYT_": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacmlu7ub6M9jYT_",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCLoVCpC57gR2hwxr",
+      "studentName": "Saisri",
+      "subjectId": "44692"
+    },
+    "-NHpjacmlu7ub6M9jYTa": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacmlu7ub6M9jYTa",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCcCeNRZl0GNFU2Nr",
+      "studentName": "Laxman",
+      "subjectId": "44692"
+    },
+    "-NHpjacmlu7ub6M9jYTb": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacmlu7ub6M9jYTb",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCnt3zhFGVLxsGoJd",
+      "studentName": "Sindhura",
+      "subjectId": "44692"
+    },
+    "-NHpjacmlu7ub6M9jYTc": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacmlu7ub6M9jYTc",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiD3WerdczrqBcO6XC",
+      "studentName": "Manoj",
+      "subjectId": "44692"
+    },
+    "-NHpjacnLMWFuUw2C_Bk": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacnLMWFuUw2C_Bk",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDHv04_YPENliXc-N",
+      "studentName": "Sumanth",
+      "subjectId": "44692"
+    },
+    "-NHpjacnLMWFuUw2C_Bl": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacnLMWFuUw2C_Bl",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDRXhKbiR2rK7eW9P",
+      "studentName": "Rashmi",
+      "subjectId": "44692"
+    },
+    "-NHpjacnLMWFuUw2C_Bm": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacnLMWFuUw2C_Bm",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDfRieNnTTIq3sL2q",
+      "studentName": "Sriharsha",
+      "subjectId": "44692"
+    },
+    "-NHpjacnLMWFuUw2C_Bn": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacnLMWFuUw2C_Bn",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDr4f678gRSdT8lXl",
+      "studentName": "Rajshekar",
+      "subjectId": "44692"
+    },
+    "-NHpjacnLMWFuUw2C_Bo": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacnLMWFuUw2C_Bo",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiEnRyT3K-WNF1Tlfe",
+      "studentName": "Ravali",
+      "subjectId": "44692"
+    },
+    "-NHpjacnLMWFuUw2C_Bp": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacnLMWFuUw2C_Bp",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiExrs4maWgTfryJwr",
+      "studentName": "Abhilash",
+      "subjectId": "44692"
+    },
+    "-NHpjacnLMWFuUw2C_Bq": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacnLMWFuUw2C_Bq",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFER4ZDPyS_UCOLa_",
+      "studentName": "Navyasri",
+      "subjectId": "44692"
+    },
+    "-NHpjacnLMWFuUw2C_Br": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacnLMWFuUw2C_Br",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFOuCi10ErBuNVCoq",
+      "studentName": "Bhikash",
+      "subjectId": "44692"
+    },
+    "-NHpjacnLMWFuUw2C_Bs": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacnLMWFuUw2C_Bs",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFZbT56uF2sMBE6a0",
+      "studentName": "Reshwanth",
+      "subjectId": "44692"
+    },
+    "-NHpjacnLMWFuUw2C_Bt": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacnLMWFuUw2C_Bt",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFiuRUzZFQX2wDA_O",
+      "studentName": "Mounisha",
+      "subjectId": "44692"
+    },
+    "-NHpjacnLMWFuUw2C_Bu": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacnLMWFuUw2C_Bu",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFuEKmDx3x8RheRl7",
+      "studentName": "Arun",
+      "subjectId": "44692"
+    },
+    "-NHpjacnLMWFuUw2C_Bv": {
+      "date": "2022-11-26 21:01:05 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHpjacnLMWFuUw2C_Bv",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NG1zIy0XuyXNRW2tSth",
+      "studentName": "TestStudent",
+      "subjectId": "44692"
+    },
+    "-NHzj6Sbpu_4x8glqdn1": {
+      "date": "2022-11-28 19:38:24 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "",
+      "section": "A",
+      "semester": 0,
+      "status": 0,
+      "studentId": "-NF7XKCzHmcH-hz0-97Y",
+      "studentName": "Harshika",
+      "subjectId": "44692"
+    },
+    "-NHzj6ScF9zmrA5yLLth": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6ScF9zmrA5yLLth",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NF7bmPoj4JqOvpQpP2M",
+      "studentName": "Sarika",
+      "subjectId": "44692"
+    },
+    "-NHzj6ScF9zmrA5yLLti": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6ScF9zmrA5yLLti",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFi64PF9bX1T8xi-pss",
+      "studentName": "Sai Krishna Vuppala",
+      "subjectId": "44692"
+    },
+    "-NHzj6ScF9zmrA5yLLtj": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6ScF9zmrA5yLLtj",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFi8pDBkKhRRfS05H7B",
+      "studentName": "Sai Krishna Veeravelly",
+      "subjectId": "44692"
+    },
+    "-NHzj6ScF9zmrA5yLLtk": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6ScF9zmrA5yLLtk",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFi9suWpn66MrK8Bw4x",
+      "studentName": "Gayatri",
+      "subjectId": "44692"
+    },
+    "-NHzj6ScF9zmrA5yLLtl": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6ScF9zmrA5yLLtl",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiBG3i61oRGUhAD8GT",
+      "studentName": "Sravani Komatineni",
+      "subjectId": "44692"
+    },
+    "-NHzj6Sdedzq1I7_dfCx": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Sdedzq1I7_dfCx",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiBXq9LivvlnDokZte",
+      "studentName": "Alekhya",
+      "subjectId": "44692"
+    },
+    "-NHzj6Sdedzq1I7_dfCy": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Sdedzq1I7_dfCy",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiBnRq2WyggehTcxsZ",
+      "studentName": "Madhumitha",
+      "subjectId": "44692"
+    },
+    "-NHzj6Sdedzq1I7_dfCz": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Sdedzq1I7_dfCz",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCLoVCpC57gR2hwxr",
+      "studentName": "Saisri",
+      "subjectId": "44692"
+    },
+    "-NHzj6Sdedzq1I7_dfD-": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Sdedzq1I7_dfD-",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCcCeNRZl0GNFU2Nr",
+      "studentName": "Laxman",
+      "subjectId": "44692"
+    },
+    "-NHzj6Sdedzq1I7_dfD0": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Sdedzq1I7_dfD0",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCnt3zhFGVLxsGoJd",
+      "studentName": "Sindhura",
+      "subjectId": "44692"
+    },
+    "-NHzj6Sdedzq1I7_dfD1": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Sdedzq1I7_dfD1",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiD3WerdczrqBcO6XC",
+      "studentName": "Manoj",
+      "subjectId": "44692"
+    },
+    "-NHzj6Sdedzq1I7_dfD2": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Sdedzq1I7_dfD2",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDHv04_YPENliXc-N",
+      "studentName": "Sumanth",
+      "subjectId": "44692"
+    },
+    "-NHzj6Sdedzq1I7_dfD3": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Sdedzq1I7_dfD3",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDRXhKbiR2rK7eW9P",
+      "studentName": "Rashmi",
+      "subjectId": "44692"
+    },
+    "-NHzj6Sdedzq1I7_dfD4": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Sdedzq1I7_dfD4",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDfRieNnTTIq3sL2q",
+      "studentName": "Sriharsha",
+      "subjectId": "44692"
+    },
+    "-NHzj6Sdedzq1I7_dfD5": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Sdedzq1I7_dfD5",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDr4f678gRSdT8lXl",
+      "studentName": "Rajshekar",
+      "subjectId": "44692"
+    },
+    "-NHzj6Sdedzq1I7_dfD6": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Sdedzq1I7_dfD6",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiEnRyT3K-WNF1Tlfe",
+      "studentName": "Ravali",
+      "subjectId": "44692"
+    },
+    "-NHzj6Se8as15L6lYDI4": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Se8as15L6lYDI4",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiExrs4maWgTfryJwr",
+      "studentName": "Abhilash",
+      "subjectId": "44692"
+    },
+    "-NHzj6Se8as15L6lYDI5": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Se8as15L6lYDI5",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFER4ZDPyS_UCOLa_",
+      "studentName": "Navyasri",
+      "subjectId": "44692"
+    },
+    "-NHzj6Se8as15L6lYDI6": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Se8as15L6lYDI6",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFOuCi10ErBuNVCoq",
+      "studentName": "Bhikash",
+      "subjectId": "44692"
+    },
+    "-NHzj6Se8as15L6lYDI7": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Se8as15L6lYDI7",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFZbT56uF2sMBE6a0",
+      "studentName": "Reshwanth",
+      "subjectId": "44692"
+    },
+    "-NHzj6Se8as15L6lYDI8": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Se8as15L6lYDI8",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFiuRUzZFQX2wDA_O",
+      "studentName": "Mounisha",
+      "subjectId": "44692"
+    },
+    "-NHzj6Se8as15L6lYDI9": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Se8as15L6lYDI9",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFuEKmDx3x8RheRl7",
+      "studentName": "Arun",
+      "subjectId": "44692"
+    },
+    "-NHzj6Se8as15L6lYDIA": {
+      "date": "2022-11-28 19:35:10 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzj6Se8as15L6lYDIA",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NG1zIy0XuyXNRW2tSth",
+      "studentName": "TestStudent",
+      "subjectId": "44692"
+    },
+    "-NHzjoCn7IKtd5_Wub0U": {
+      "date": "2022-11-28 19:38:24 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "",
+      "section": "A",
+      "semester": 0,
+      "status": 0,
+      "studentId": "-NF7XKCzHmcH-hz0-97Y",
+      "studentName": "Harshika",
+      "subjectId": "44692"
+    },
+    "-NHzjoCn7IKtd5_Wub0V": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCn7IKtd5_Wub0V",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NF7bmPoj4JqOvpQpP2M",
+      "studentName": "Sarika",
+      "subjectId": "44692"
+    },
+    "-NHzjoCn7IKtd5_Wub0W": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCn7IKtd5_Wub0W",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFi64PF9bX1T8xi-pss",
+      "studentName": "Sai Krishna Vuppala",
+      "subjectId": "44692"
+    },
+    "-NHzjoCohggwORaIqvzs": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCohggwORaIqvzs",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFi8pDBkKhRRfS05H7B",
+      "studentName": "Sai Krishna Veeravelly",
+      "subjectId": "44692"
+    },
+    "-NHzjoCohggwORaIqvzt": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCohggwORaIqvzt",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFi9suWpn66MrK8Bw4x",
+      "studentName": "Gayatri",
+      "subjectId": "44692"
+    },
+    "-NHzjoCohggwORaIqvzu": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCohggwORaIqvzu",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiBG3i61oRGUhAD8GT",
+      "studentName": "Sravani Komatineni",
+      "subjectId": "44692"
+    },
+    "-NHzjoCohggwORaIqvzv": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCohggwORaIqvzv",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiBXq9LivvlnDokZte",
+      "studentName": "Alekhya",
+      "subjectId": "44692"
+    },
+    "-NHzjoCohggwORaIqvzw": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCohggwORaIqvzw",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiBnRq2WyggehTcxsZ",
+      "studentName": "Madhumitha",
+      "subjectId": "44692"
+    },
+    "-NHzjoCohggwORaIqvzx": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCohggwORaIqvzx",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCLoVCpC57gR2hwxr",
+      "studentName": "Saisri",
+      "subjectId": "44692"
+    },
+    "-NHzjoCohggwORaIqvzy": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCohggwORaIqvzy",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCcCeNRZl0GNFU2Nr",
+      "studentName": "Laxman",
+      "subjectId": "44692"
+    },
+    "-NHzjoCohggwORaIqvzz": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCohggwORaIqvzz",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiCnt3zhFGVLxsGoJd",
+      "studentName": "Sindhura",
+      "subjectId": "44692"
+    },
+    "-NHzjoCohggwORaIqw--": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCohggwORaIqw--",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiD3WerdczrqBcO6XC",
+      "studentName": "Manoj",
+      "subjectId": "44692"
+    },
+    "-NHzjoCohggwORaIqw-0": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCohggwORaIqw-0",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDHv04_YPENliXc-N",
+      "studentName": "Sumanth",
+      "subjectId": "44692"
+    },
+    "-NHzjoCp8kjgD7yTch9Y": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCp8kjgD7yTch9Y",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDRXhKbiR2rK7eW9P",
+      "studentName": "Rashmi",
+      "subjectId": "44692"
+    },
+    "-NHzjoCp8kjgD7yTch9Z": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCp8kjgD7yTch9Z",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDfRieNnTTIq3sL2q",
+      "studentName": "Sriharsha",
+      "subjectId": "44692"
+    },
+    "-NHzjoCp8kjgD7yTch9_": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCp8kjgD7yTch9_",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiDr4f678gRSdT8lXl",
+      "studentName": "Rajshekar",
+      "subjectId": "44692"
+    },
+    "-NHzjoCp8kjgD7yTch9a": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCp8kjgD7yTch9a",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiEnRyT3K-WNF1Tlfe",
+      "studentName": "Ravali",
+      "subjectId": "44692"
+    },
+    "-NHzjoCp8kjgD7yTch9b": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCp8kjgD7yTch9b",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiExrs4maWgTfryJwr",
+      "studentName": "Abhilash",
+      "subjectId": "44692"
+    },
+    "-NHzjoCp8kjgD7yTch9c": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCp8kjgD7yTch9c",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFER4ZDPyS_UCOLa_",
+      "studentName": "Navyasri",
+      "subjectId": "44692"
+    },
+    "-NHzjoCp8kjgD7yTch9d": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCp8kjgD7yTch9d",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFOuCi10ErBuNVCoq",
+      "studentName": "Bhikash",
+      "subjectId": "44692"
+    },
+    "-NHzjoCp8kjgD7yTch9e": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCp8kjgD7yTch9e",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFZbT56uF2sMBE6a0",
+      "studentName": "Reshwanth",
+      "subjectId": "44692"
+    },
+    "-NHzjoCp8kjgD7yTch9f": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCp8kjgD7yTch9f",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFiuRUzZFQX2wDA_O",
+      "studentName": "Mounisha",
+      "subjectId": "44692"
+    },
+    "-NHzjoCp8kjgD7yTch9g": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCp8kjgD7yTch9g",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NFiFuEKmDx3x8RheRl7",
+      "studentName": "Arun",
+      "subjectId": "44692"
+    },
+    "-NHzjoCqZsLB0FiNgqG4": {
+      "date": "2022-11-28 19:38:13 +0000",
+      "facultyId": "-NFC1k7-KdknjY2yYUFG",
+      "id": "-NHzjoCqZsLB0FiNgqG4",
+      "section": "A",
+      "semester": 0,
+      "status": 1,
+      "studentId": "-NG1zIy0XuyXNRW2tSth",
+      "studentName": "TestStudent",
+      "subjectId": "44692"
     }
   },
   "faculty": {
     "-NF7XoVI_XhkiDuzVSYp": {
-      "email": "saikrishna123@nwmissouri.edu",
+      "email": saikrishna123@nwmissouri.edu,
       "id": "-NF7XoVI_XhkiDuzVSYp",
       "name": "Saikrishna",
       "password": "dfsdfa",
@@ -181,7 +1556,7 @@
       ]
     },
     "-NFC1k7-KdknjY2yYUFG": {
-      "email": "afellah@nwmissouri.edu",
+      "email": afellah@nwmissouri.edu,
       "id": "-NFC1k7-KdknjY2yYUFG",
       "name": "Aziz Fellah",
       "password": "Faculty",
@@ -203,7 +1578,7 @@
       ]
     },
     "-NFC29jG-PkWw4aD3NZs": {
-      "email": "abandi@nwmissouri.edu",
+      "email": abandi@nwmissouri.edu,
       "id": "-NFC29jG-PkWw4aD3NZs",
       "name": "Ajay Bandi",
       "password": "Faculty",
@@ -216,12 +1591,63 @@
           "timeSlot": "09:50 PM"
         }
       ]
+    },
+    "-NG1yN-isyMaomVxGBP7": {
+      "email": test123@nwmissouri.edu,
+      "id": "-NG1yN-isyMaomVxGBP7",
+      "name": "Test",
+      "password": "Faculty",
+      "subjects": [
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 1,
+          "timeSlot": "09:11 AM"
+        }
+      ]
+    },
+    "-NHzhh1u3lBLPJsijRAK": {
+      "email": sai@nwmissouri.edu,
+      "id": "-NHzhh1u3lBLPJsijRAK",
+      "name": "Sai",
+      "password": "Faculty",
+      "subjects": [
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": "01:30 PM"
+        }
+      ]
+    },
+    "-NI4ozjObQoqOu2rghLp": {
+      "email": joseph@nwmissouri.edu,
+      "id": "-NI4ozjObQoqOu2rghLp",
+      "name": "Joseph",
+      "password": "Faculty"
+    },
+    "-NI4p6qlaUWPzeWkSht-": {
+      "email": ross@nwmissouri.edu,
+      "id": "-NI4p6qlaUWPzeWkSht-",
+      "name": "Ross",
+      "password": "Faculty",
+      "subjects": [
+        {
+          "id": "44613",
+          "name": "Data Visualization - 44613",
+          "section": "B",
+          "semester": 0,
+          "timeSlot": "09:00 AM"
+        }
+      ]
     }
   },
   "student": {
     "-NF7XKCzHmcH-hz0-97Y": {
       "919Number": "919610335",
-      "email": "s545035@nwmissouri.edu",
+      "email": s545035@nwmissouri.edu,
       "id": "-NF7XKCzHmcH-hz0-97Y",
       "name": "Harshika",
       "password": "123123",
@@ -246,7 +1672,7 @@
     },
     "-NF7bmPoj4JqOvpQpP2M": {
       "919Number": "919609675",
-      "email": "s545388@nwmissouri.edu",
+      "email": s545388@nwmissouri.edu,
       "id": "-NF7bmPoj4JqOvpQpP2M",
       "name": "Sarika",
       "password": "Student",
@@ -264,7 +1690,7 @@
     },
     "-NF9JxxGrqSC92S7zxXm": {
       "919Number": "919610864",
-      "email": "s545027@nwmissouri.edu",
+      "email": s545027@nwmissouri.edu,
       "id": "-NF9JxxGrqSC92S7zxXm",
       "name": "Sarath",
       "password": "123456",
@@ -282,23 +1708,15 @@
     },
     "-NFi64PF9bX1T8xi-pss": {
       "919Number": "919609708",
-      "email": "S545040@nwmissouri.edu",
+      "email": S545040@nwmissouri.edu,
       "id": "-NFi64PF9bX1T8xi-pss",
       "name": "Sai Krishna Vuppala",
       "password": "Student",
       "semester": 0,
       "subjects": [
-        null,
         {
           "id": "44692",
           "name": "GDP II - 44692",
-          "section": "A",
-          "semester": 0,
-          "timeSlot": ""
-        },
-        {
-          "id": "44517",
-          "name": "Big Data - 44517",
           "section": "A",
           "semester": 0,
           "timeSlot": ""
@@ -308,7 +1726,7 @@
     },
     "-NFi8pDBkKhRRfS05H7B": {
       "919Number": "919610074",
-      "email": "s544724@nwmissouri.edu",
+      "email": s544724@nwmissouri.edu,
       "id": "-NFi8pDBkKhRRfS05H7B",
       "name": "Sai Krishna Veeravelly",
       "password": "Student1",
@@ -333,10 +1751,10 @@
     },
     "-NFi9suWpn66MrK8Bw4x": {
       "919Number": "919610073",
-      "email": "s545030@nwmissouri.edu",
+      "email": s545030@nwmissouri.edu,
       "id": "-NFi9suWpn66MrK8Bw4x",
       "name": "Gayatri",
-      "password": "Student",
+      "password": "Student1",
       "semester": 0,
       "subjects": [
         {
@@ -358,7 +1776,7 @@
     },
     "-NFiBG3i61oRGUhAD8GT": {
       "919Number": "919610075",
-      "email": "s544715@nwmissouri.edu",
+      "email": s544715@nwmissouri.edu,
       "id": "-NFiBG3i61oRGUhAD8GT",
       "name": "Sravani Komatineni",
       "password": "Student",
@@ -383,7 +1801,7 @@
     },
     "-NFiBXq9LivvlnDokZte": {
       "919Number": "919610076",
-      "email": "s542983@nwmissouri.edu",
+      "email": s542983@nwmissouri.edu,
       "id": "-NFiBXq9LivvlnDokZte",
       "name": "Alekhya",
       "password": "Student",
@@ -408,7 +1826,7 @@
     },
     "-NFiBnRq2WyggehTcxsZ": {
       "919Number": "919610078",
-      "email": "s545252@nwmissouri.edu",
+      "email": s545252@nwmissouri.edu,
       "id": "-NFiBnRq2WyggehTcxsZ",
       "name": "Madhumitha",
       "password": "Student",
@@ -433,7 +1851,7 @@
     },
     "-NFiCLoVCpC57gR2hwxr": {
       "919Number": "919610079",
-      "email": "s545013@nwmissouri.edu",
+      "email": s545013@nwmissouri.edu,
       "id": "-NFiCLoVCpC57gR2hwxr",
       "name": "Saisri",
       "password": "Student",
@@ -458,7 +1876,7 @@
     },
     "-NFiCcCeNRZl0GNFU2Nr": {
       "919Number": "919610080",
-      "email": "s545015@nwmissouri.edu",
+      "email": s545015@nwmissouri.edu,
       "id": "-NFiCcCeNRZl0GNFU2Nr",
       "name": "Laxman",
       "password": "Student",
@@ -483,7 +1901,7 @@
     },
     "-NFiCnt3zhFGVLxsGoJd": {
       "919Number": "919610081",
-      "email": "s545427@nwmissouri.edu",
+      "email": s545427@nwmissouri.edu,
       "id": "-NFiCnt3zhFGVLxsGoJd",
       "name": "Sindhura",
       "password": "Student",
@@ -508,7 +1926,7 @@
     },
     "-NFiCy5LhMts4xnKzefx": {
       "919Number": "919610081",
-      "email": "s545519@nwmissouri.edu",
+      "email": s545519@nwmissouri.edu,
       "id": "-NFiCy5LhMts4xnKzefx",
       "name": "Mahima",
       "password": "Student",
@@ -517,7 +1935,7 @@
     },
     "-NFiD3WerdczrqBcO6XC": {
       "919Number": "919610082",
-      "email": "s545400@nwmissouri.edu",
+      "email": s545400@nwmissouri.edu,
       "id": "-NFiD3WerdczrqBcO6XC",
       "name": "Manoj",
       "password": "Student",
@@ -542,7 +1960,7 @@
     },
     "-NFiDHv04_YPENliXc-N": {
       "919Number": "919610083",
-      "email": "s545146@nwmissouri.edu",
+      "email": s545146@nwmissouri.edu,
       "id": "-NFiDHv04_YPENliXc-N",
       "name": "Sumanth",
       "password": "Student",
@@ -567,7 +1985,7 @@
     },
     "-NFiDRXhKbiR2rK7eW9P": {
       "919Number": "919610084",
-      "email": "s545721@nwmissouri.edu",
+      "email": s545721@nwmissouri.edu,
       "id": "-NFiDRXhKbiR2rK7eW9P",
       "name": "Rashmi",
       "password": "Student",
@@ -592,7 +2010,7 @@
     },
     "-NFiDfRieNnTTIq3sL2q": {
       "919Number": "919610086",
-      "email": "s545568@nwmissouri.edu",
+      "email": s545568@nwmissouri.edu,
       "id": "-NFiDfRieNnTTIq3sL2q",
       "name": "Sriharsha",
       "password": "Student",
@@ -617,7 +2035,7 @@
     },
     "-NFiDr4f678gRSdT8lXl": {
       "919Number": "919610087",
-      "email": "s545008@nwmissouri.edu",
+      "email": s545008@nwmissouri.edu,
       "id": "-NFiDr4f678gRSdT8lXl",
       "name": "Rajshekar",
       "password": "Student",
@@ -638,11 +2056,11 @@
           "timeSlot": ""
         }
       ],
-      "year": "2022"
+     "year": "2022"
     },
     "-NFiEnRyT3K-WNF1Tlfe": {
       "919Number": "919610089",
-      "email": "s545717@nwmissouri.edu",
+      "email": s545717@nwmissouri.edu,
       "id": "-NFiEnRyT3K-WNF1Tlfe",
       "name": "Ravali",
       "password": "Student",
@@ -667,7 +2085,7 @@
     },
     "-NFiExrs4maWgTfryJwr": {
       "919Number": "919610090",
-      "email": "s545245@nwmissouri.edu",
+      "email": s545245@nwmissouri.edu,
       "id": "-NFiExrs4maWgTfryJwr",
       "name": "Abhilash",
       "password": "Student",
@@ -692,7 +2110,7 @@
     },
     "-NFiF7C8-nxhOsOjMF0y": {
       "919Number": "919610091",
-      "email": "s545412@nwmissouri.edu",
+      "email": s545412@nwmissouri.edu,
       "id": "-NFiF7C8-nxhOsOjMF0y",
       "name": "Sravan",
       "password": "Student",
@@ -701,7 +2119,7 @@
     },
     "-NFiFER4ZDPyS_UCOLa_": {
       "919Number": "919610091",
-      "email": "s545610@nwmissouri.edu",
+      "email": s545610@nwmissouri.edu,
       "id": "-NFiFER4ZDPyS_UCOLa_",
       "name": "Navyasri",
       "password": "Student",
@@ -726,7 +2144,7 @@
     },
     "-NFiFOuCi10ErBuNVCoq": {
       "919Number": "919610092",
-      "email": "s525662@nwmissouri.edu",
+      "email": s525662@nwmissouri.edu,
       "id": "-NFiFOuCi10ErBuNVCoq",
       "name": "Bhikash",
       "password": "Student",
@@ -751,7 +2169,7 @@
     },
     "-NFiFZbT56uF2sMBE6a0": {
       "919Number": "919610093",
-      "email": "s545230@nwmissouri.edu",
+      "email": s545230@nwmissouri.edu,
       "id": "-NFiFZbT56uF2sMBE6a0",
       "name": "Reshwanth",
       "password": "Student",
@@ -776,7 +2194,7 @@
     },
     "-NFiFiuRUzZFQX2wDA_O": {
       "919Number": "919610095",
-      "email": "s545235@nwmissouri.edu",
+      "email": s545235@nwmissouri.edu,
       "id": "-NFiFiuRUzZFQX2wDA_O",
       "name": "Mounisha",
       "password": "Student",
@@ -801,7 +2219,7 @@
     },
     "-NFiFuEKmDx3x8RheRl7": {
       "919Number": "919610096",
-      "email": "s544721@nwmissouri.edu",
+      "email": s544721@nwmissouri.edu,
       "id": "-NFiFuEKmDx3x8RheRl7",
       "name": "Arun",
       "password": "Student",
@@ -826,7 +2244,7 @@
     },
     "-NFn5yphNAc_6sroff6J": {
       "919Number": "3554667",
-      "email": "s123@nwmissouri.edu",
+      "email": s123@nwmissouri.edu,
       "id": "-NFn5yphNAc_6sroff6J",
       "name": "Test",
       "password": "123123",
@@ -836,6 +2254,67 @@
           "id": "44643",
           "name": "Mobile Computing IOS - 44643",
           "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NG1zIy0XuyXNRW2tSth": {
+      "919Number": "919123456",
+      "email": S123456@nwmissouri.edu,
+      "id": "-NG1zIy0XuyXNRW2tSth",
+      "name": "TestStudent",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44692",
+          "name": "GDP II - 44692",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        },
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+     "year": "2022"
+    },
+    "-NHziN-Gw6aZ_2Z2U0nq": {
+      "919Number": "91923456",
+      "email": s234567@nwmissouri.edu,
+      "id": "-NHziN-Gw6aZ_2Z2U0nq",
+      "name": "Sai",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44517",
+          "name": "Big Data - 44517",
+          "section": "A",
+          "semester": 0,
+          "timeSlot": ""
+        }
+      ],
+      "year": "2022"
+    },
+    "-NI4pYa2pasRV-di0XDd": {
+      "919Number": "919450329",
+      "email": s545921@nwmissouri.edu,
+      "id": "-NI4pYa2pasRV-di0XDd",
+      "name": "Lisa",
+      "password": "Student",
+      "semester": 0,
+      "subjects": [
+        {
+          "id": "44613",
+          "name": "Data Visualization - 44613",
+          "section": "B",
           "semester": 0,
           "timeSlot": ""
         }
