@@ -18,9 +18,9 @@ An attendance tracking System is an  iOS application that enables users to updat
 5. Extract the project and run the xcworkspace using the xcode
 6. We can run the project in simulator and can launch in personal phones
 7. We can launch the project in phone by using the connector
-8. Firstly, we need to turn the developer mode in phone
-   Secondly, we need to add our apple if in Signing and Capabilities
-   Next run the project using the required authorized phone id instead of simulator
-   Then atlast project will be launched in connected phone
+8. Firstly, we need to turn the developer mode in phone<br>
+   Secondly, we need to add our apple if in Signing and Capabilities<br>
+   Next run the project using the required authorized phone id instead of simulator<br>
+   Then atlast project will be launched in connected phone<br>
 
 
