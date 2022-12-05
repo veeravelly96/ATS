@@ -22,7 +22,7 @@ An attendance tracking System is an  iOS application that enables users to updat
    Secondly, we need to add our apple id in Signing and Capabilities<br>
    Next run the project using the required authorized phone id instead of simulator<br>
    Then atlast project will be launched in connected phone<br>
-9. Required Credentials:
+9. Required Credentials:<br>
    Admin - username - Admin@nwmissouri.edu , password - 123123<br>
    TestStudent - username - S545229@nwmissouri.edu , password - Student<br>
    TestFaculty - username - Faculty@nwmissouri.edu , password - Faculty<br>
